@@ -1,0 +1,35 @@
+header {
+    background-color: #B0B8B4;
+    color: black;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: #F05141;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+p{
+    color:#17202A;
+    text-align: justify;
+
+}
+
+h1 {
+    background-color: #68b943;
+    text-align: center;
+}
+
+h2 {
+    background-color: #91FFC2;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
